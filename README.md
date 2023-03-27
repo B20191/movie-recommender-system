@@ -7,11 +7,11 @@ Do try this web application using the following link: https://lets-try-movies.he
 
 The landing page of the web-app is as shown below:
 
-image
+
 
 
 On selecting a movie, it recommends you five movies. It looks as shown below
-image
+
 
 
 On selecting any recommended movie you will be redirected to an OTT platform
@@ -19,6 +19,6 @@ On selecting any recommended movie you will be redirected to an OTT platform
 For example: I selected the Harry Potter and the Sorcerer's Stone Movie and I was redirected to the amazon prime video page for the film.
 
 
-image
+
 
 This was all about my web-app, hope you liked it. 😊🙃
